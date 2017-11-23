@@ -4,7 +4,7 @@ var rest = require('../API/Restclient');
 var restaurant = require("./RestaurantCard");
 var nutrition = require("./nutritionCard")
 //COGNITIVE
-var cognitive = require('./controller/CognitiveDialog');
+//var cognitive = require('./controller/CustomVision');
 // Some sections have been omitted
 
 
